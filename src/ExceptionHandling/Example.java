@@ -10,6 +10,8 @@ public class Example {
 			
 		}catch(Exception ex) {
 			 System.out.println("Caught exception "+ex.getMessage());
+		}finally {
+			System.out.println("Trying to demonstrate exception handling");
 		}
 		
 	}
