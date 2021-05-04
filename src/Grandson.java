@@ -1,5 +1,5 @@
 
-public class Grandson extends Son{
+public class Grandson extends Son{ // subclass of super class Son
 	
 	public void saySomethingGrandSon() {
 		Grandson s = new Grandson();

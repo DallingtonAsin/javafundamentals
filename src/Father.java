@@ -1,4 +1,4 @@
-
+// Father is a super class
 public class Father {
 	
 	public String skinColor = "Brown";
