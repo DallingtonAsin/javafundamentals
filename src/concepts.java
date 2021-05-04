@@ -7,8 +7,8 @@ public class concepts {
 
 	public static void main(String[] args) {
 		
-		concepts obj = new concepts();
-		Scanner input = new Scanner(System.in);
+		concepts obj = new concepts(); // Object creation / class instantiation
+		Scanner input = new Scanner(System.in); // Read input from keyboard
 		
 		System.out.println("Enter your name");
 		obj.name = input.nextLine();
