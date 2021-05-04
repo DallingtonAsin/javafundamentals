@@ -1,14 +1,5 @@
 package Encapsulation;
 
-/*
- Encapsulation is the process of wrapping code and data together into a single unit 
- e.g a capsule which is mixed of several medicines
- 
- A java class which is fully encapsulated has a private data member and getter and setter methods
- A java class which read only class or write only class
- 
- 
- */
 
 public class encapsulation {
 	
