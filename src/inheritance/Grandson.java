@@ -1,3 +1,4 @@
+package inheritance;
 
 public class Grandson extends Son{ // subclass of super class Son
 	

@@ -1,3 +1,4 @@
+package inheritance;
 // Types of inheritance: single, multilevel and hierarchical
 
 /*

@@ -1,3 +1,4 @@
+package inheritance;
 // Father is a super class
 public class Father {
 	

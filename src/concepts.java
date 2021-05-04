@@ -1,4 +1,15 @@
+/*
 
+List of Java Fundamentals implemented here
+
+1. Inheritance
+2. Abstraction
+3. Encapsulation
+4. Polymorphism
+5. Exception Handling
+
+
+*/
 import java.util.*;
 public class concepts {
 	
