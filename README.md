@@ -1,5 +1,7 @@
 # javafundamentals
-Here are simple code snippets that you can look through to understand java programming concepts
+Simple code snippets that you can look through to understand java programming concepts like inheritance, encapsulation,
+abstraction, polymorphism, exception handling, data structures (Arrays, linked lists, stack, queues and recursion).
+This package will always be updated with new code, so endevor to always check and clone this repository anytime!
 
 NOTE PLEASE!!!!
 
