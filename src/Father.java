@@ -3,8 +3,8 @@ public class Father {
 	
 	public String skinColor = "Brown";
 	
-	public String eat() {
-		return "eating is my hobby";
+	public void eat() {
+		System.out.println("eating is my hobby");
 	}
 
 }

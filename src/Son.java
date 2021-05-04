@@ -2,15 +2,17 @@
 
 /*
   When a class inherits another, its called single inheritance
+  
+  When there is a chain of inheritance, it's called multilevel inheritance
  */
 
 public class Son extends Father{
+	
+	public double height = 7.88;
 
-	public static void main(String[] args) {
+	public void saySomethingSon() {
 		Son s = new Son();
-		System.out.println("The son extends father skin color which is "+s.skinColor);
-		System.out.println("The son says "+s.eat());
-
+		System.out.println("My children will extend my father's skin color which is "+s.skinColor);
 	}
 
 }
